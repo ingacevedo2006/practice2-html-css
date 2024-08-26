@@ -18,6 +18,8 @@ body{
 }
 
 .header_menu {
+    display: flex;
+    gap: 80px;
 }
 
 .header_menu_link {
@@ -32,7 +34,7 @@ body{
     color: #22D4FD; 
 }
 .presentacion {
-    margin: 10% 15%;
+    padding: 7% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
