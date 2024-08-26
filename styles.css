@@ -102,7 +102,7 @@ body{
 }
 .footer {
     background-color: var(--color-terciario);
-    padding: 1.5 rem;
+    padding: 21.5px;
     color: var(--color-primario);
     text-align: center;
     font-family: var(--fuente-monserrat);
