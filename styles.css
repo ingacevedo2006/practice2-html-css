@@ -106,7 +106,6 @@ body{
     width:  50%;
 }
 
-
 .footer {
     background-color: var(--color-terciario);
     padding: 24px;
@@ -115,4 +114,10 @@ body{
     font-family: var(--fuente-monserrat);
     font-size: 1.5 rem;
     font-weight: 400;
+}
+
+@media (max-width: 1200) {
+    .presentacion {
+        flex-direction: column-reverse;
+    }
 }
